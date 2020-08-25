@@ -1,3 +1,4 @@
+git bash에서!
 cd 원하는 폴더로 이동(지금은 finco)  
 git init  
 git remote add origin "주소"  
